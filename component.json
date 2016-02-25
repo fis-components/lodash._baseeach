@@ -8,5 +8,5 @@
         "lodash.keys": "^4.0.0"
     },
     "main": "index.js",
-    "version": "4.0.0"
+    "version": "4.0.1"
 }
