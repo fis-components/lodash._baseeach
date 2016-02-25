@@ -1,0 +1,12 @@
+{
+    "name": "lodash._baseeach",
+    "description": "The internal lodash function `baseEach` exported as a module.",
+    "repos": "https://github.com/lodash/lodash.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "lodash.keys": "^4.0.0"
+    },
+    "main": "index.js",
+    "version": "4.0.0"
+}
